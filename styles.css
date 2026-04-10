@@ -164,7 +164,7 @@ ul {
 }
 
 .preloader-bar {
-    width: 1010px;
+    width: 600px;
     height: 3px;
     background: rgba(255, 255, 255, 0.1);
     border-radius: 3px;
